@@ -1,5 +1,6 @@
-**Welcome to SPYDER a web crawler
-This is a UNIQUE web crawler that only uses pure python!! 
+Welcome to SPYDER a web crawler - Version 0.0.1.
+
+- This is a UNIQUE web crawler that only uses pure python!! 
 - ZERO Dependencies!!! Just a one time download and go security tool.
 - Uses only modules from the python standard library.
 --------------------------------------------------------------------------------------
@@ -12,5 +13,5 @@ ________________________________________________________________________________
 
 NOTES: This is a command-line tool built for windows OS, 
 when you crawl a website it returns the results in your command line.
-Version 0.0.1. This web crawler can currently only crawl unencrypted web sites.
+This web crawler can currently only crawl unencrypted web sites.
 Updates to come soon.
