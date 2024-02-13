@@ -1,3 +1,4 @@
+**Welcome to SPYDER a web crawler
 This is a UNIQUE web crawler that only uses pure python!! 
 - ZERO Dependencies!!! Just a one time download and go security tool.
 - Uses only modules from the python standard library.
