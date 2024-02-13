@@ -6,7 +6,7 @@ Welcome to SPYDER a web crawler - Version 0.0.1.
 --------------------------------------------------------------------------------------
 USAGE:
 - Clone this repo
-- Execute the web crawler security tool by: py crawl.py [target-url]
+- Execute the web crawler security tool by: py spyder.py [target-url]
 - It should crawl most sites quickly within reason, or CTRL-C.
 - Comes with a help menu type: py crawl.py -h.
 ______________________________________________________________________________________
