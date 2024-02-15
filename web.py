@@ -26,3 +26,6 @@ class MyHTMLParser(HTMLParser):
                         e = str(i)          # to strip unnecessary data output.
                         if 'href' in e:
                             print(e[10:-2])
+
+if __name__ == '__main__':
+    pass                            
