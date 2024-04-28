@@ -1,4 +1,4 @@
-Welcome to SPYDER a web crawler - Version 0.0.1.
+Welcome to SPYDER a web crawler - Version 1.0.0
 
 - This is a UNIQUE web crawler that only uses pure python!! 
 - ZERO Dependencies!!! Just a one time download and go security tool.
